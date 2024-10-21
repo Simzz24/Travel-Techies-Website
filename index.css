@@ -117,6 +117,7 @@ nav a {
 }
 .search-bar button:hover {
   background-color: #218838;
+  transform: scale(1.05);
 }
 
 /* New section for the service cards */

@@ -151,6 +151,9 @@ nav a {
   background-color: #fff;
   border-radius: 10px;
   padding: 20px;
+  min-height: 200px;
+  /* padding-top: 0%; */
+  /* margin-top: 50px; */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   width: 200px;
   text-align: center;
@@ -158,6 +161,7 @@ nav a {
 }
 .service-card:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  /* transform: scale(1.2); */
 }
 .service-card img {
   width: 50px;
